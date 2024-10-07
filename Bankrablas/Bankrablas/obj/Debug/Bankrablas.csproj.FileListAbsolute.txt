@@ -1,0 +1,14 @@
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.csproj.AssemblyReference.cache
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.csproj.CoreCompileInputs.cache
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.exe.config
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.exe
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.pdb
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.exe
+H:\Alkalmazás fejlesztés és tesztelés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.pdb
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.exe.config
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.exe
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\bin\Debug\Bankrablas.pdb
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.csproj.AssemblyReference.cache
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.csproj.CoreCompileInputs.cache
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.exe
+D:\13.c\Alkalmazás fejlesztés\bankrablas\Bankrablas\Bankrablas\obj\Debug\Bankrablas.pdb
